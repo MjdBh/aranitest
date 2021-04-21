@@ -1,0 +1,16 @@
+{
+    "Version": 5,
+    "ElasticsearchWarning": true,
+    "ResolverConfig": {
+        "project": {
+            "ConflictHandler": "OPTIMISTIC_CONCURRENCY",
+            "ConflictDetection": "VERSION"
+        },
+        "models": {
+            "Todo": {
+                "ConflictHandler": "OPTIMISTIC_CONCURRENCY",
+                "ConflictDetection": "VERSION"
+            }
+        }
+    }
+}
