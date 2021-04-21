@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "auth": {
+      "araniteste4e92d44": [
+        "read"
+      ]
+    },
+    "api": {
+      "aranitest": [
+        "Query"
+      ]
+    },
+    "storage": {
+      "aranitestResources": [
+        "read"
+      ],
+      "Todo:@model(appsync)": [
+        "read"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
