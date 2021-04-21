@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "araniteste4e92d44": {}
+      },
+      "function": {
+        "AccessManage": {
+          "deploymentBucketName": "amplify-aranitest-dev-41442-deployment",
+          "s3Key": "amplify-builds/AccessManage-7232555a516438666d62-build.zip"
+        }
       }
     }
   }
